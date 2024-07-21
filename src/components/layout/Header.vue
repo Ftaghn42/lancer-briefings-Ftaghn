@@ -20,25 +20,25 @@
     <div class="location-info">
       <div class="location-row" id="planet-year">
         <div id="planet">
-          <h4>Deployment Info</h4>
+          <h4>Localisation</h4>
           <span class="subtitle">{{ header.planet }}</span>
         </div>
         <div id="year">
-          <h4>Year</h4>
+          <h4>Date</h4>
           <span class="subtitle">{{ header.year }}</span>
         </div>
       </div>
       <div class="location-row" id="system-gate-ring">
         <div id="system">
-          <h4>System</h4>
+          <h4>Système</h4>
           <span class="subtitle">{{ header.system }}</span>
         </div>
         <div id="gate">
-          <h4>Gate</h4>
+          <h4>Porte Blink</h4>
           <span class="subtitle">{{ header.gate }}</span>
         </div>
         <div id="ring">
-          <h4>Ring</h4>
+          <h4>Anneau</h4>
           <span class="subtitle">{{ header.ring }}</span>
         </div>
       </div>
