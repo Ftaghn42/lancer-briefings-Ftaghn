@@ -89,12 +89,12 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "001b",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
+          "slug": "001b",
           "name": "Le Largage",
           "status": "start"
         },
