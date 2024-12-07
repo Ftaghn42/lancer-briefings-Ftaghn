@@ -1,18 +1,20 @@
 # Talents :
 - Ace 1
 - Skirmisher 1
-- Duelist 1
+- Duelist 2
 
 # Mech Everest
 ## Intentions de design
-/Pas de Données/
+Ninja hit&run CaC
 
 ## Armement:
-- Chain axe
-- Pistol *2
-- Anti-materiel Rifle
+- Vijaya Rocket
+- Fold knife
+- Tactical melee
+- Heavy charged blade
 
 ## Systems
-- FLight system
+- Flight system
 - Personalizations
-- Smoke charges
+- Custom paint job
+- Fade cloak
