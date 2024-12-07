@@ -96,7 +96,7 @@ export default {
         {
           "slug": "001b",
           "name": "Le Largage",
-          "status": "finished"
+          "status": "success"
         },
         {
           "slug": "002",
