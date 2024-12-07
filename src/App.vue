@@ -96,12 +96,12 @@ export default {
         {
           "slug": "001b",
           "name": "Le Largage",
-          "status": "start"
+          "status": "finished"
         },
         {
           "slug": "002",
           "name": "Sauvetage",
-          "status": "complete"
+          "status": "start"
         },
       ],
       "pilots": [
