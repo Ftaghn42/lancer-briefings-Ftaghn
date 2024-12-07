@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001b",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
@@ -97,6 +97,11 @@ export default {
           "slug": "001b",
           "name": "Le Largage",
           "status": "start"
+        },
+        {
+          "slug": "002",
+          "name": "Sauvetage",
+          "status": "complete"
         },
       ],
       "pilots": [
