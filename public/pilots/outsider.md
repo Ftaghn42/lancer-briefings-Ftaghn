@@ -8,8 +8,13 @@
 
 ## Armement:
 - Thermal pistol
-- Pistol
-- Light nexus
+- Predator Nexus
+- hunter-killer nexus
 
 ## Systems
-- 
+- Projected Shield
+- Deployable cover
+- Turret drones
+- Personalizations
+- Armament redundancy
+- Manipulators
